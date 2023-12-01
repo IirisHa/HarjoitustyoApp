@@ -1,0 +1,41 @@
+C:\Users\Rissanen Iiris\Desktop\HarjoitustyoApp\HarjoitustyoApp\bin\Debug\HarjoitustyoApp.exe.config
+C:\Users\Rissanen Iiris\Desktop\HarjoitustyoApp\HarjoitustyoApp\bin\Debug\HarjoitustyoApp.exe
+C:\Users\Rissanen Iiris\Desktop\HarjoitustyoApp\HarjoitustyoApp\bin\Debug\HarjoitustyoApp.pdb
+C:\Users\Rissanen Iiris\Desktop\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.AssemblyReference.cache
+C:\Users\Rissanen Iiris\Desktop\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rissanen Iiris\Desktop\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.FrmHarjoitustyo.resources
+C:\Users\Rissanen Iiris\Desktop\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.Properties.Resources.resources
+C:\Users\Rissanen Iiris\Desktop\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.GenerateResource.cache
+C:\Users\Rissanen Iiris\Desktop\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.CoreCompileInputs.cache
+C:\Users\Rissanen Iiris\Desktop\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.exe
+C:\Users\Rissanen Iiris\Desktop\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.pdb
+C:\Users\Rissanen Iiris\Desktop\HarjoitustyoApp\HarjoitustyoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rissanen Iiris\Desktop\HarjoitustyoApp\HarjoitustyoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rissanen Iiris\Desktop\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.CopyComplete
+C:\Users\finla\source\repos\HarjoitustyoApp\HarjoitustyoApp\bin\Debug\HarjoitustyoApp.exe.config
+C:\Users\finla\source\repos\HarjoitustyoApp\HarjoitustyoApp\bin\Debug\HarjoitustyoApp.exe
+C:\Users\finla\source\repos\HarjoitustyoApp\HarjoitustyoApp\bin\Debug\HarjoitustyoApp.pdb
+C:\Users\finla\source\repos\HarjoitustyoApp\HarjoitustyoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\finla\source\repos\HarjoitustyoApp\HarjoitustyoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\finla\source\repos\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.AssemblyReference.cache
+C:\Users\finla\source\repos\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\finla\source\repos\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.FrmHarjoitustyo.resources
+C:\Users\finla\source\repos\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.Properties.Resources.resources
+C:\Users\finla\source\repos\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.GenerateResource.cache
+C:\Users\finla\source\repos\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.CoreCompileInputs.cache
+C:\Users\finla\source\repos\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.CopyComplete
+C:\Users\finla\source\repos\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.exe
+C:\Users\finla\source\repos\HarjoitustyoApp\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.pdb
+C:\Users\iiris\Downloads\HarjoitustyoApp_IirisHare\HarjoitustyoApp\bin\Debug\HarjoitustyoApp.exe.config
+C:\Users\iiris\Downloads\HarjoitustyoApp_IirisHare\HarjoitustyoApp\bin\Debug\HarjoitustyoApp.exe
+C:\Users\iiris\Downloads\HarjoitustyoApp_IirisHare\HarjoitustyoApp\bin\Debug\HarjoitustyoApp.pdb
+C:\Users\iiris\Downloads\HarjoitustyoApp_IirisHare\HarjoitustyoApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iiris\Downloads\HarjoitustyoApp_IirisHare\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.AssemblyReference.cache
+C:\Users\iiris\Downloads\HarjoitustyoApp_IirisHare\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\iiris\Downloads\HarjoitustyoApp_IirisHare\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.FrmHarjoitustyo.resources
+C:\Users\iiris\Downloads\HarjoitustyoApp_IirisHare\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.Properties.Resources.resources
+C:\Users\iiris\Downloads\HarjoitustyoApp_IirisHare\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.GenerateResource.cache
+C:\Users\iiris\Downloads\HarjoitustyoApp_IirisHare\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.CoreCompileInputs.cache
+C:\Users\iiris\Downloads\HarjoitustyoApp_IirisHare\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.csproj.CopyComplete
+C:\Users\iiris\Downloads\HarjoitustyoApp_IirisHare\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.exe
+C:\Users\iiris\Downloads\HarjoitustyoApp_IirisHare\HarjoitustyoApp\obj\Debug\HarjoitustyoApp.pdb
