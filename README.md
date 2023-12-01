@@ -1,1 +1,2 @@
 # IirisHa.github.io
+HarjoitustyoApp is an application that can be used to maintain information of a company's personnel. All the information can be modified by dobble clicking, and saved or deleted by pressing a button. The application corrects the big letters and checks that the Finnish social security number is written in the correct way. It also suggests the city for the postal number according to the earlier saved information. The application is implemented with C#.
